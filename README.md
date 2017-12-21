@@ -14,35 +14,50 @@ The art assets (non UASSET format) are proprietary and hosted elsewhere.
 
 ```
 Unreal Engine 4 (UE 4.18 recommended)
+Visual Studio (2017 recommended)
 ```
 
 ### Installing
 
-Create a new UE 4.18 project:
+Clone the repository's master branch:
 
 ```
-Epic Games Launcher -> Unreal Engine -> Library > New Project
+Click the green "Clone or download" button and use your preferred method
 ```
 
-Select 2D Side Scroller Template in either C++ / Blueprints:
+Locate the .uproject in the directory of the cloned repository:
 
 ```
-Will add images here later
+Example - C:\Git\Mukashi\Mukashi.uproject
 ```
 
-Locate the directory of the created project:
+Open the project:
 
 ```
-Default is C:\Users\[USERNAME]\Documents\Unreal Projects\[PROJECT NAME]
+Double-click/Enter the .uproject
+You may need to click OK/Yes through some dialogs regarding rebuilding.
+```
+
+If the above fails or if you want to edit C++:
+
+```
+Right click the .uproject and click "Generate Visual Studio Solution"
+```
+
+Build from Visual Studio:
+
+```
+Open the newly generated VS .sln file and build from there (Use either Development Editor or Debug Editor modes)
 ```
 
 ## Deployment
 
-We're not even close to live yet. Development started on 12/14. Will update this in the future.
+We're not even close to live yet. Development "started" on 12/14. Will update this in the future.
 
 ## Built With
 
-* [Unreal Engine](https://www.unrealengine.com/) - Epic Games
+* [Unreal Engine 4](https://www.unrealengine.com/) - Epic Games
+* [Visual Studio Community 2017](https://www.visualstudio.com/) = Microsoft
 
 ## Contributing
 
