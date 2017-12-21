@@ -6,9 +6,7 @@ Mukashi is an in-progress game designed and drawn by Inkarat Mittongtare (imitto
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-This repo is an Unreal project repo, built from editor, rather than source. This project was created in UE 4.18 and support for any other version is not guaranteed.
-
-The art assets (non UASSET format) are proprietary and hosted elsewhere. 
+This repo is an Unreal project built from editor, rather than source. This project was created in UE 4.18 and support for any other version is not guaranteed.
 
 ### Prerequisites
 
@@ -57,12 +55,8 @@ We're not even close to live yet. Development "started" on 12/14. Will update th
 ## Built With
 
 * [Unreal Engine 4](https://www.unrealengine.com/) - Epic Games
-* [Visual Studio Community 2017](https://www.visualstudio.com/) = Microsoft
+* [Visual Studio Community 2017](https://www.visualstudio.com/) - Microsoft
 
-## Contributing
+## The Team
 
-Though this is open source on Github, we would like to work on this purely as a personal learning project. 
-
-## Authors
-
-See the list of [contributors](https://github.com/jeffreykxiao/mukashi/contributors) who participated in this project.
+[Us!](https://github.com/jeffreykxiao/mukashi/contributors)

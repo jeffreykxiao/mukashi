@@ -10,7 +10,7 @@
 #include "GameFramework/Controller.h"
 #include "Camera/CameraComponent.h"
 
-DEFINE_LOG_CATEGORY_STATIC(SideScrollerCharacter, Log, All);
+DEFINE_LOG_CATEGORY_STATIC(MukashiCharacter, Log, All);
 
 //////////////////////////////////////////////////////////////////////////
 // AMukashiCharacter
