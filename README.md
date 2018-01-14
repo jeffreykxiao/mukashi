@@ -12,10 +12,20 @@ This repo is an Unreal project built from editor, rather than source. This proje
 
 ```
 Unreal Engine 4 (UE 4.18 recommended)
-Visual Studio (2017 recommended)
+Visual Studio 2017
+Visual Studio 2015 and 2017 Build Tools
 ```
 
+
 ### Installing
+
+Run VS 2017 Installer with the following options enabled (Untick UE Installer if you already have it):
+
+![Visual Studio Install Settings](https://docs.unrealengine.com/latest/images/Programming/Development/VisualStudioSetup/VS2017_SettingsInstaller.jpg)
+
+Download Visual Studio 2015/2017 Build Tools:
+
+http://landinghub.visualstudio.com/visual-cpp-build-tools
 
 Clone the repository's master branch:
 
