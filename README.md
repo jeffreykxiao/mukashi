@@ -46,7 +46,7 @@ Double-click/Enter the .uproject
 You may need to click OK/Yes through some dialogs regarding rebuilding.
 ```
 
-If the above fails or if you want to edit C++:
+If the above fails or if you want to edit C++ (make sure to do this if you pull from the repo):
 
 ```
 Right click the .uproject and click "Generate Visual Studio Solution"
